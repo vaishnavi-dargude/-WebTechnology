@@ -1,0 +1,3 @@
+Practical No 5:
+Write a procedure to install node.js in your PC or Laptop. Write commands to run the (.js) file 
+from command line with example.
